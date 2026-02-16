@@ -21,6 +21,26 @@
 - [Contributors](#contributors)
 
 
+## Network Scanning Tools
+
+## Vulnerability Scanning Tools
+
+## Password Cracking Tools
+
+## Exploitation Tools
+
+## Packet Sniffing and Spoofing Tools
+
+## Wireless Hacking Tools
+
+## Web Application Hacking Tools
+
+## Forensic Tools
+
+## Social Engineering Tools
+
+## Miscellaneous Tools
+
 ##
 
 ### My Other Awesome Lists
