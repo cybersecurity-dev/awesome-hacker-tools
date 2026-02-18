@@ -21,6 +21,12 @@
 - [Contributors](#contributors)
 
 
+## Linux Distribution used for Hacker
+
+* [BlackArch](https://www.blackarch.org/) - BlackArch Linux is an Arch Linux-based penetration testing distribution for penetration testers and security researchers.
+* [Kali](https://www.kali.org/) - Kali Linux is an open-source, Debian-based Linux distribution geared towards various information security tasks, such as Penetration Testing, Security Research, Computer Forensics and Reverse Engineering.
+* [Parrot OS](https://www.parrotsec.org/) - Parrot OS is a Linux distribution based on Debian with a focus on security, privacy, and development.
+
 ## Network Scanning Tools
 
 * [NMAP](https://nmap.org/) - [Nmap](https://github.com/nmap/nmap) (_"Network Mapper"_) is a free and open source utility for network discovery and security auditing.
