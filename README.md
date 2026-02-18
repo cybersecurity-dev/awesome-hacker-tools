@@ -29,7 +29,7 @@
 
 ## Vulnerability Scanning Tools
 
-* [](https://portswigger.net/burp/dast) - Burp Suite DAST The enterprise-enabled dynamic web vulnerability scanner.
+* [Burp Suite DAST](https://portswigger.net/burp/dast) - Burp Suite DAST The enterprise-enabled dynamic web vulnerability scanner.
 
 ---
 
