@@ -23,23 +23,52 @@
 
 ## Network Scanning Tools
 
+* [NMAP](https://nmap.org/) - [Nmap](https://github.com/nmap/nmap) (_"Network Mapper"_) is a free and open source utility for network discovery and security auditing.
+
+---
+
 ## Vulnerability Scanning Tools
+
+* [](https://portswigger.net/burp/dast) - Burp Suite DAST The enterprise-enabled dynamic web vulnerability scanner.
+
+---
 
 ## Password Cracking Tools
 
+---
+
 ## Exploitation Tools
+
+---
 
 ## Packet Sniffing and Spoofing Tools
 
+* [NetExec](https://www.netexec.wiki/) - [NetExec](https://github.com/Pennyw0rth/NetExec) (a.k.a nxc) is a network service exploitation tool that helps automate assessing the security of large networks.
+* [Responder](https://www.kali.org/tools/responder/) - [Responder](https://github.com/Pennyw0rth/NetExec) is a LLMNR, NBT-NS, and MDNS poisoner with built-in rogue authentication servers for HTTP, SMB, MSSQL, FTP, LDAP, Kerberos, DNS, and more. 
+
+---
+
 ## Wireless Hacking Tools
+
+---
 
 ## Web Application Hacking Tools
 
+* [Burp Suite](https://www.kali.org/tools/burpsuite/) - [Burp Suite](https://portswigger.net/burp) is a proprietary software tool for security assessment and penetration testing of web applications.
+
+---
+
 ## Forensic Tools
+
+---
 
 ## Social Engineering Tools
 
+---
+
 ## Miscellaneous Tools
+
+---
 
 ##
 
