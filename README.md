@@ -175,60 +175,93 @@ mindmap
 - [Contributors](#contributors)
 
 
-## **`Linux Distribution`** used for Hacker
-
-* [BlackArch](https://www.blackarch.org/) - BlackArch Linux is an Arch Linux-based penetration testing distribution for penetration testers and security researchers.
-* [Kali](https://www.kali.org/) - Kali Linux is an open-source, Debian-based Linux distribution geared towards various information security tasks, such as Penetration Testing, Security Research, Computer Forensics and Reverse Engineering.
-* [Parrot OS](https://www.parrotsec.org/) - Parrot OS is a Linux distribution based on Debian with a focus on security, privacy, and development.
+## Reconnaissance
+```text
+└── Reconnaissance
+    ├── Shodan
+    ├── Maltego
+    ├── Amass
+    └── OSINT Framework
+```
 
 ## **`Network Scanning`** Tools
+```text
+└── Scanning
+    ├── Nmap
+    ├── Masscan
+    └── RustScan
+```
 
 * [NMAP](https://nmap.org/) - [Nmap](https://github.com/nmap/nmap) (_"Network Mapper"_) is a free and open source utility for network discovery and security auditing.
 
----
 
 ## **`Vulnerability Scanning`** Tools
+```text
+└── Vulnerability Discovery
+    ├── Nessus
+    ├── OpenVAS
+    ├── Nikto
+    └── Qualys
+```
 
 * [Burp Suite DAST](https://portswigger.net/burp/dast) - Burp Suite DAST The enterprise-enabled dynamic web vulnerability scanner.
 
----
 
 ## **`Password Cracking`** Tools
 
----
 
 ## **`Exploitation`** Tools
 
----
+```text
+├── Exploitation
+│   ├── Metasploit
+│   ├── SQLMap
+│   ├── BeEF
+│   └── RouterSploit
+│
+└── Post Exploitation
+    ├── Mimikatz
+    ├── Empire
+    ├── Covenant
+    └── BloodHound
+```
+
 
 ## **`Packet Sniffing and Spoofing`** Tools
+```text
+└── Packet Capture
+    ├── Wireshark
+    ├── tcpdump
+    └── tshark
+```
 
 * [NetExec](https://www.netexec.wiki/) - [NetExec](https://github.com/Pennyw0rth/NetExec) (a.k.a nxc) is a network service exploitation tool that helps automate assessing the security of large networks.
 * [Responder](https://www.kali.org/tools/responder/) - [Responder](https://github.com/Pennyw0rth/NetExec) is a LLMNR, NBT-NS, and MDNS poisoner with built-in rogue authentication servers for HTTP, SMB, MSSQL, FTP, LDAP, Kerberos, DNS, and more. 
 
----
 
 ## **`Wireless Hacking`** Tools
 
----
 
 ## **`Web Application Hacking`** Tools
 
 * [Burp Suite](https://www.kali.org/tools/burpsuite/) - [Burp Suite](https://portswigger.net/burp) is a proprietary software tool for security assessment and penetration testing of web applications.
 
----
 
 ## **`Forensic`** Tools
 
----
+
 
 ## **`Social Engineering`** Tools
 
----
+
 
 ## **`Miscellaneous`** Tools
 
----
+### **`Linux Distribution`** used for Hacker
+
+* [BlackArch](https://www.blackarch.org/) - BlackArch Linux is an Arch Linux-based penetration testing distribution for penetration testers and security researchers.
+* [Kali](https://www.kali.org/) - Kali Linux is an open-source, Debian-based Linux distribution geared towards various information security tasks, such as Penetration Testing, Security Research, Computer Forensics and Reverse Engineering.
+* [Parrot OS](https://www.parrotsec.org/) - Parrot OS is a Linux distribution based on Debian with a focus on security, privacy, and development.
 
 ##
 
