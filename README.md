@@ -1,5 +1,148 @@
 <div align="center">
-    
+
+```mermaid
+mindmap
+  root((Cybersecurity Tools))
+
+    Security Linux Distros
+      Kali Linux
+      Parrot OS
+      BlackArch
+      BackBox
+      Pentoo
+
+    Reconnaissance
+      Whois
+      DNS Enumeration
+      Shodan
+      Maltego
+      theHarvester
+      Amass
+      OSINT
+
+    Network Scanning
+      Nmap
+      Masscan
+      Zmap
+      Angry IP Scanner
+      RustScan
+
+    Vulnerability Assessment
+      Nessus
+      OpenVAS
+      Nexpose
+      Qualys
+      Nikto
+
+    Password Auditing
+      John the Ripper
+      Hashcat
+      Hydra
+      Medusa
+      CeWL
+
+    Exploitation
+      Metasploit
+      BeEF
+      SearchSploit
+      SQLMap
+      RouterSploit
+
+    Web Security
+      Burp Suite
+      OWASP ZAP
+      SQLMap
+      Nikto
+      Gobuster
+      ffuf
+      Dirsearch
+
+    Wireless Security
+      Aircrack-ng
+      Kismet
+      Wifite
+      Reaver
+      Bettercap
+
+    Network Analysis
+      Wireshark
+      tcpdump
+      tshark
+      Zeek
+      Snort
+      Suricata
+
+    Malware Analysis
+      Ghidra
+      IDA Pro
+      Cutter
+      x64dbg
+      PEStudio
+      YARA
+      VirusTotal
+
+    Reverse Engineering
+      Ghidra
+      Radare2
+      Binary Ninja
+      OllyDbg
+      WinDbg
+
+    DFIR
+      Autopsy
+      FTK
+      Velociraptor
+      Volatility
+      Redline
+      Plaso
+
+    Memory Forensics
+      Volatility
+      Rekall
+      MemProcFS
+
+    Social Engineering
+      SET
+      Gophish
+      Evilginx
+
+    Cloud Security
+      ScoutSuite
+      Prowler
+      Pacu
+      CloudSplaining
+
+    Container Security
+      Trivy
+      Grype
+      Clair
+      Docker Bench
+
+    Mobile Security
+      MobSF
+      Frida
+      Objection
+      Apktool
+
+    Threat Hunting
+      Sigma
+      Velociraptor
+      Sysmon
+      ELK Stack
+
+    SIEM Platforms
+      Splunk
+      ELK Stack
+      Wazuh
+      Graylog
+
+    Threat Intelligence
+      MISP
+      OpenCTI
+      MITRE ATT&CK
+      AlienVault OTX
+```
+
 # **`Awesome`** Hacker Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 </div>
 
@@ -9,7 +152,7 @@
 <p align="center">
     <a href="https://github.com/cybersecurity-dev/"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/github.svg" alt="GitHub"></a>
     &nbsp;
-    <a href="https://www.youtube.com/@CyberThreatDefence"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/youtube.svg" alt="YouTube"></a>
+    <a href="https://www.youtube.com/@CyberThreatDefense"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/youtube.svg" alt="YouTube"></a>
     &nbsp;
     <a href="https://cyberthreatdefence.com/my_awesome_lists"><img height="20" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/blog.svg" alt="My Awesome Lists"></a>
     <img src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/bar.gif">
@@ -97,5 +240,8 @@ You can access the my other awesome lists [here](https://cyberthreatdefence.com/
 
 ### Contributors
 [Thanks goes to these contributors](https://github.com/cybersecurity-dev/awesome-hacker-tools/graphs/contributors)!
+
+### License
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
 [🔼 Back to top](#awesome-hacker-tools-)
