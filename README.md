@@ -204,6 +204,7 @@ mindmap
     └── Qualys
 ```
 
+* [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPL-3.0) autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes.
 * [Burp Suite DAST](https://portswigger.net/burp/dast) - Burp Suite DAST The enterprise-enabled dynamic web vulnerability scanner.
 
 
